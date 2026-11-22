@@ -1,3 +1,2 @@
-Flask
-yfinance
-pyTelegramBotAPI
+python-telegram-bot==20.7
+yfinance==0.2.38
